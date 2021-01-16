@@ -1,0 +1,52 @@
+
+*{font-family: 'Times New Roman'; color:black; font-size: 12}
+.myButton01 {
+	background-color:#b3b3b3;
+	border-radius:0px;
+	display:inline-block;
+	padding:100px 100px;
+}
+.myButton02 {
+	background-color:#ffffff;
+	border-radius:7px;
+	border: black;
+	border-style: solid;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	padding:13px 48px;
+	text-decoration:none;
+}
+.myButton02:hover {
+	background-color:#bf2a2a;
+}
+.myButton02:active {
+	position: relative;
+	top:1px;
+}
+.myButton03 {
+	background-color:grey;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	padding:15px 50px;
+	text-decoration:none;
+}
+.myButton03:hover {
+	background-color:#bf2a2a;
+}
+.myButton03:active {
+	position: relative;
+	top:1px;
+}
+.myButton04 {
+	background-color:#b3b3b3;
+	border-radius:5px;
+	display:inline-block;
+	cursor:pointer;
+	padding:15px 15px;
+	text-decoration:none;
+}
+
+        

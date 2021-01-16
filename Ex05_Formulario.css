@@ -1,0 +1,23 @@
+
+*{font-family: 'Times New Roman'; color:black; font-size: 12}
+.myButton {
+	background-color:#2f00ff;
+	border-radius:32px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:8px 16px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#bf2a2a;
+}
+.myButton:active {
+	position: relative;
+	top:1px;
+}
+a:
+
+
+
+        
